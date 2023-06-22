@@ -1,6 +1,6 @@
 # zkSNARK-circuit
 
-This project generates zero-knowledge circuits, proofs, and solidity verifiers to show the the logic that an input with variable a = 0 and b = 1 will result to an output of c = 0 
+This project generates zero-knowledge circuits, proofs, and solidity verifiers to show the logic that an input with variable a = 0 and b = 1 will result to an output of c = 0 
 
 ## Getting started
 The circuit is compiled and verified against a smart contract verifier
